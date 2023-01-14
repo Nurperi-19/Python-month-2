@@ -1,0 +1,4 @@
+Products: 
+Сыр 90soms (Mfg date:01.09.2022)
+Хлеб 75soms (Mfg date:02.10.2022)
+Сэндвич 85soms (Mfg date:05.10.2022
